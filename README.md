@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, i'm Andrey 😃 </h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/drzdvsk/">Andrei</a> 😃</h1>
 <h3 align="center">QA Engineer </h3>
 
 ## About Me:
-- QA Engineer with 3 years of experience in testing software products. Proficient in functional and API testing, with a strong understanding of QA processes and methodologies. I am detail-oriented and able to work efficiently in fast-paced environments.
-- I'm currently developing my automation skills on stack Java, Gradle, Selenide, JUnit5, and RestAssured.
+QA Engineer with 3 years of experience in testing software products. Proficient in functional and API testing, with a strong understanding of QA processes and methodologies. I am detail-oriented and able to work efficiently in fast-paced environments.
+
+I'm currently developing my automation skills on stack Java, Gradle, Selenide, JUnit5, and RestAssured.
 
  ## My projects:
 
@@ -23,5 +24,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drzdvsk&layout=compact)
 
 ## Contact me 
-<img src="icons/telegram.png" title="Telegram" alt="Telegram" width="15" height="15"/> [@namasse1](https://t.me/namasse1)
-<!--
+:mailbox: [an.drzdvsk@gmail.com](mailto:an.drzdvsk@gmail.com )
+:email: [https://t.me/namasse1](https://t.me/namasse1)
