@@ -2,15 +2,13 @@
 <h3 align="center">QA Engineer </h3>
 
 ## About Me:
-QA Engineer with 3 years of experience in testing software products. Proficient in functional and API testing, with a strong understanding of QA processes and methodologies. I am detail-oriented and able to work efficiently in fast-paced environments.
-
-I'm currently developing my automation skills on stack Java, Gradle, Selenide, JUnit5, and RestAssured.
+QA Engineer with 4 years of experience in testing software products. Proficient in functional and API testing, with a strong understanding of QA processes and methodologies. I am detail-oriented and able to work efficiently in fast-paced environments.
 
 ## Skills:
  | Category          | Skills                                                                                 |
  |-------------------|----------------------------------------------------------------------------------------|
  | **Manual Testing**| Functional Testing, API Testing (Postman, Swagger), Charles Proxy, Proxyman, Browser DevTools, SQL, VMWare Workstation |
- | **Automation**    | Java, Selenide, JUnit 5, REST Assured, Gradle, Jenkins, Selenoid, Browserstack, Git/GitHub, Allure Reports |
+ | **Automation**    | Java, Selenide, JUnit 5, REST Assured, Gradle, Kotlin, Kotest, Retrofit, Jenkins, Selenoid, Browserstack, Git/GitHub, Allure Reports |
  | **Project Management Tools** | JIRA, Confluence, Zephyr, YouTrack                                                                                 |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drzdvsk&layout=compact)
