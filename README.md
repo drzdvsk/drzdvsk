@@ -6,14 +6,6 @@ QA Engineer with 3 years of experience in testing software products. Proficient 
 
 I'm currently developing my automation skills on stack Java, Gradle, Selenide, JUnit5, and RestAssured.
 
- ## My projects:
-
-**[QA GURU](https://qa.guru/java)**: Test Automation with Java
-
-:desktop_computer: https://github.com/drzdvsk/alfabank_tests — a demo project with ui tests (in progress)
-
-:outbox_tray: (in progress) — a demo project with api tests
-
 ## Skills:
  | Category          | Skills                                                                                 |
  |-------------------|----------------------------------------------------------------------------------------|
@@ -25,4 +17,4 @@ I'm currently developing my automation skills on stack Java, Gradle, Selenide, J
 
 ## Contact me 
 :mailbox: [an.drzdvsk@gmail.com](mailto:an.drzdvsk@gmail.com )
-:email: [https://t.me/namasse1](https://t.me/namasse1)
+:email: [https://t.me/namasse11](https://t.me/namasse11)
