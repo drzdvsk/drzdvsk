@@ -9,7 +9,7 @@ QA Engineer with 4 years of experience in testing software products. Proficient 
  |-------------------|----------------------------------------------------------------------------------------|
  | **Manual Testing**| Functional Testing, API Testing (Postman, Swagger), Charles Proxy, Proxyman, Browser DevTools, SQL, VMWare Workstation |
  | **Automation**    | Java, Selenide, JUnit 5, REST Assured, Gradle, Kotlin, Kotest, Retrofit, Jenkins, Selenoid, Browserstack, Git/GitHub, Allure Reports |
- | **Project Management Tools** | JIRA, Confluence, Zephyr, YouTrack                                                                                 |
+ | **Project Management Tools** | JIRA, Confluence, Zephyr, YouTrack, TestOps                                                                                 |
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drzdvsk&layout=compact)
 
